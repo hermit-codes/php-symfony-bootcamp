@@ -76,7 +76,7 @@ The Book Manager is a learning project inspired by ThingsBook; it is not a requi
 - [x] 01.03 — Operators & Expressions
 - [x] 01.04 — Conditional Statements
 - [x] 01.05 — Match Expressions
-- [ ] 01.06 — Loops & Iteration
+- [x] 01.06 — Loops & Iteration
 - [ ] 01.07 — Indexed Arrays
 - [ ] 01.08 — Associative Arrays
 - [ ] 01.09 — Multidimensional Arrays
