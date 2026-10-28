@@ -17,7 +17,7 @@ $genres = [
     "Mystery"
 ];
 
-$genres[2] = "Thriller";
+$genres[2] = "Thriller" . "\n";
 
 // Adding Elements to an Indexed Array
 $books = [
@@ -35,7 +35,7 @@ $books = [
     "The Hobbit"
 ];
 
-echo count($books);
+echo count($books) . "\n";
 
 // Removing Elements
 $books = [
